@@ -1,6 +1,6 @@
 # Room-Occupancy-detection-data-IoT-sensor-
 
-İzlenecek adım: Gerçek IoT verisi üzerinde gözetimli öğrenme algoritmalarını test edilecek. Amaç, verideki değişkenleri analiz ederek odada insan varlığını (occupancy) tespit etmek.
+Gerçek IoT verisi üzerinde gözetimli öğrenme algoritmaları test edilerek verideki değişkenleri analiz ederek odada insan varlığını (occupancy) tespit edilmesidir.
 Üç adet veri seti mevcut: 
 1)	Veriseti1: Kapılar kapalıyken alınmış ölçümler. 
 2)	Veriseti2: Kapılar kapalıyken alınmış başka bir veri seti. Veriseti3: Kapılar açıkken alınmış ölçümler.
